@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COCFinal</string>
+    <string name="tipusAtac">Tipus d\'atac:</string>
+    <string name="objectiu">Objectiu preferit:</string>
+    <string name="divisio">Divisió:</string>
+    <string name="nivell">Nivell maxim:</string>
+    <string name="nom">Nom:</string>
+    <string name="action_logo">Logo</string>
+    <string name="imatge_descarrega">Veure Logo</string>
+    <string name="action_afegir">Afegir</string>
+    <string name="action_delete">Eliminar</string>
+</resources>
